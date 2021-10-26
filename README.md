@@ -1,4 +1,4 @@
-## Oii Aqui é Fe...☺
+## Oii Aqui é Fe..
 
 - 💻 Estudante da Etec-Elias Nechar(Catanduva)
 - 🌱 2° Ano do Ensino Médio-Integrado ao Técnico/Info./Net
@@ -9,7 +9,7 @@
 - 🌎 Sp/Mg
 - 🏔 As melhores vistas sempre serão admiradas depois de um percurso difícil.
 
-## Insights:
+## ⚙Insights:
 
 <div align="center">
   <a href="https://github.com/feventeu">
@@ -17,7 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feventeu&layout=compact&langs_count=7&theme=dark"/>
 </div></br>
 
-## Linguagens:
+## 🔰Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### Tecnologias usadas no Dia a Dia:
+### 📱Tecnologias usadas no Dia a Dia:
 
 <div> 
   <a href="https://instagram.com/fe_venteu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
