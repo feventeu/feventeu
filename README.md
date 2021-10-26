@@ -1,4 +1,4 @@
-# Oii Aqui é Fe..
+# Oii Aqui é Fe...⚡
 
 - 💻 Estudante da Etec-Elias Nechar(Catanduva)
 - 🌱 2° Ano do Ensino Médio-Integrado ao Técnico/Info./Net
