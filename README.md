@@ -1,7 +1,7 @@
 # Oii Aqui é Fe...⚡
 - 💻 Estudante da Etec-Elias Nechar(Catanduva)
 - 🌱 3° Ano do Ensino Médio-Integrado ao curso de T.I.
-- 💬 Insta: @fe_venteu
+- 💬 Insta: @feventeu_
 - 😏 Pronouns: ele/dele
 - 🦁 Sig: Leão
 - 💜 Since: 05
