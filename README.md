@@ -1,7 +1,8 @@
 # Oii, eu sou o Felipe...
-- 💻 Formado em Técnico de T.I Etec-Elias Nechar(Catanduva)
+- 👨🏻‍💻 Formado em Técnico de T.I Etec-Elias Nechar(Catanduva)
 - </> Desenvolvedor Full-Stack
-- <?> PHP language 
+- 💻 PHP language.
+- 🇺🇸 Curso de Inglês KNN idiomas.
 
 ## 📊Painel de Controle:
 
