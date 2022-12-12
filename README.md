@@ -1,12 +1,7 @@
-# Oii Aqui é Fe...⚡
-- 💻 Estudante da Etec-Elias Nechar(Catanduva)
-- 🌱 3° Ano do Ensino Médio-Integrado ao curso de T.I.
-- 💬 Insta: @feventeu_
-- 😏 Pronouns: ele/dele
-- 🦁 Sig: Leão
-- 💜 Since: 05
-- 🌎 Sp/Mg
-- 🏔 As melhores vistas sempre serão admiradas depois de um percurso difícil.
+# Oii, eu sou o Felipe...
+- 💻 Formado em Técnico de T.I Etec-Elias Nechar(Catanduva)
+- </> Desenvolvedor Full-Stack
+- <?> PHP language 
 
 ## 📊Painel de Controle:
 
