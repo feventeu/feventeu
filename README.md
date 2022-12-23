@@ -7,7 +7,7 @@
 - 💻 PHP language.
 - 🇺🇸 Curso de Inglês KNN idiomas.
 
-## 📊Painel de Controle:
+## 📊Painel de Status:
 
 <div align="center">
   <a href="https://https://github.com/FeVenteu">
