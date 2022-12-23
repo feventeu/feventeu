@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/Reff20/Reff20/main/Design%20sem%20nome.svg" style="margin-top: 100px" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+
 # Oii, eu sou o Felipe...
 - 👨🏻‍💻 Formado em Técnico de T.I Etec-Elias Nechar(Catanduva)
 - </> Desenvolvedor Full-Stack
