@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Formado em Técnico de T.I Etec-Elias Nechar(Catanduva)
 - </> Desenvolvedor Full-Stack
 - 💻 PHP language.
-- 🇺🇸 Inglẽs Intermediário.
+- 🇺🇸 Inglês Intermediário.
 
 ## 📊Painel de Status:
 
